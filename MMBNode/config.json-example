@@ -1,0 +1,13 @@
+{
+	"prod": {
+		"appid": "",
+		"clientkey": "",
+		"masterkey": ""
+	},
+
+	"dev": {
+		"appid": "",
+		"clientkey": "",
+		"masterkey": ""
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "applications": {
+        "MMBDEV": {
+            "applicationId": "",
+            "masterKey": ""
+        },
+        "MeowMeowBeanz": {
+            "applicationId": "",
+            "masterKey": ""
+        },
+        "_default": {
+            "link": "MMBDEV"
+        }
+    },
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
